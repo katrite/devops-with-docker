@@ -1,1 +1,5 @@
-sflgkj
+docker ps -a          
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                      PORTS     NAMES
+b819572ddd14   nginx     "/docker-entrypoint.…"   About a minute ago   Exited (0) 54 seconds ago             strange_jemison
+18e3770b19d0   nginx     "/docker-entrypoint.…"   About a minute ago   Exited (0) 45 seconds ago             adoring_taussig
+2b0078eb3965   nginx     "/docker-entrypoint.…"   About a minute ago   Up About a minute           80/tcp    gracious_galois
